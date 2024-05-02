@@ -31,4 +31,4 @@ Hi! I am an emerging software developer. I am studying such areas as server and 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/283577988791140352)
 
 # Stats
-![Metrics](https://metrics.lecoq.io/?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Europe%2FVolgograd)
+![Metrics](https://github.com/FenechKus/FenechKus/blob/main/github-metrics.svg)
